@@ -6,9 +6,9 @@ class numerical
 public static void main (String[] args)   
 {
 Scanner ob = new Scanner(System.in);    
-System.out.println("INPUT");    
+System.out.println("Input:");    
 int num= ob.nextInt();    
-System.out.println("OUTPUT");    
+System.out.println("Output:");    
 if(num>0)    
 {
     System.out.println("Positive");    
