@@ -13,7 +13,7 @@ Scanner ob = new Scanner(System.in);
 	}
 	else
 	{		
-	System.out.println("No");	
-  }
+		System.out.println("No");	
+  	}
 }
 }
