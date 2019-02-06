@@ -9,7 +9,7 @@ Scanner ob = new Scanner(System.in);
 	char ch= ob.next().charAt(0);
   if( (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
 	{
-		System.out.println("Consonant");
+		System.out.println("Alphabet");
 	}
 	else
 	{		
