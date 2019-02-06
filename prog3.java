@@ -20,5 +20,4 @@ Scanner ob = new Scanner(System.in);
 	System.out.println("invalid");	
   }
 }
-
 }
