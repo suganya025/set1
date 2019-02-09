@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.*;
 import java.lang.*;
 import java.io.*;
 class leafyr
