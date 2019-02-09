@@ -9,11 +9,11 @@ class largestnum
   	int a= ob.nextInt();    
 	int b= ob.nextInt();
 	int c= ob.nextInt();
-		if((a>b)&&(a>c))    		
+		if((a>=b)&&(a>=c))    		
     		{ 
      			 System.out.println(+a);  
 		}   
-		else if((b>a)&&(b>c))   		
+		else if((b>=a)&&(b>=c))   		
     		{  
 			System.out.println(+b);  	        
    		 }  
