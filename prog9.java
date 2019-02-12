@@ -12,7 +12,6 @@ class array
         int n=0,i,j;
         for(i=1; i<=a; i++) 
         {
-        	System.out.println(+i);
         }
     	for(j=1; j<=b; j++)
     	{
