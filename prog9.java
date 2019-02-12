@@ -18,6 +18,6 @@ class array
     	{
         	 n=n+j;
     	}
-    	System.out.println(+j);
+    	System.out.println(+n);
     }
 }
